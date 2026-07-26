@@ -4,6 +4,11 @@ version: 0.1.0
 homepage: https://github.com/JarviS6051/flutter-accessible-motion
 repository: https://github.com/JarviS6051/flutter-accessible-motion
 issue_tracker: https://github.com/JarviS6051/flutter-accessible-motion/issues
+topics:
+  - accessibility
+  - animation
+  - flutter
+  - reduced-motion
 
 environment:
   sdk: ^3.8.0

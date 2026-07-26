@@ -1,5 +1,7 @@
 # Accessible Motion
 
+[![Flutter quality](https://github.com/JarviS6051/flutter-accessible-motion/actions/workflows/ci.yml/badge.svg)](https://github.com/JarviS6051/flutter-accessible-motion/actions/workflows/ci.yml)
+
 Small, dependency-free Flutter motion primitives that automatically respect the
 user's reduced-motion preference.
 
