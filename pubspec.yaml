@@ -1,0 +1,19 @@
+name: accessible_motion
+description: Accessible Flutter motion primitives that respect reduced-motion preferences.
+version: 0.1.0
+homepage: https://github.com/JarviS6051/flutter-accessible-motion
+repository: https://github.com/JarviS6051/flutter-accessible-motion
+issue_tracker: https://github.com/JarviS6051/flutter-accessible-motion/issues
+
+environment:
+  sdk: ^3.8.0
+  flutter: ">=3.32.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+  flutter_test:
+    sdk: flutter
